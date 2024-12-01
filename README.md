@@ -1,4 +1,4 @@
-![logo]([https://github.com/arihutan/arihutan/blob/61d0f830313ff14cf1645c1ce2fb2836f50f202d/Sampul1.png](https://github.com/fajaraihan/fajaraihan/blob/main/bg%20githubbg%20github.png)) 
+![logo]([https://github.com/fajaraihan/fajaraihan/blob/main/bg%20githubbg%20github.png]) 
 [![GitHub](https://img.shields.io/badge/GitHub-fajaraihan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/fajaraihan/)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/fajaraihan/)   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Fajar-Raihan)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajar-raihan/)
 
 
